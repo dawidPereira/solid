@@ -6,8 +6,4 @@
     <GenerateProgramFile>false</GenerateProgramFile>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Dependency Inversion Principle\" />
-  </ItemGroup>
-
 </Project>
