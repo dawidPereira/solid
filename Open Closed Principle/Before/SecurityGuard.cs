@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Microsoft.VisualBasic.CompilerServices;
-
 namespace solid.Open_Closed_Principle.Before
 {
     public class SecurityGuard
