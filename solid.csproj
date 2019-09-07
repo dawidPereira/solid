@@ -6,10 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Liskov Substitution Principle\" />
     <Folder Include="Interface Segregation Principle\" />
     <Folder Include="Dependency Inversion Principle\" />
-    <Folder Include="Open Closed Principle\" />
+    <Folder Include="Liskov Substitution Principle\" />
   </ItemGroup>
 
 </Project>
