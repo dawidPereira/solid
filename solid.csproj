@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Dependency Inversion Principle\" />
-    <Folder Include="Interface Segregation Principle\" />
   </ItemGroup>
 
 </Project>
